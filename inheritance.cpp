@@ -31,3 +31,5 @@ int main(){
     a.fun("Rohit", 20, 12); // this works fine
 
 }
+
+// study the types also.. - form gfg and code part from gfg
